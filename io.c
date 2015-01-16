@@ -10,9 +10,12 @@ int main(){
   //yyyyyyyyyyyyyyyyyy
   //ggggggggggggggggggggggggggg
   //hhhhhhhhhhhhhhhh
+<<<<<<< HEAD
   
   ///aqaaasdafsdggsgsgsg
   printf("Haile");
+=======
+>>>>>>> miasoluzione
   system("pause");
   
 }
